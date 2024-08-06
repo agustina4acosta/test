@@ -1,6 +1,6 @@
-# SOC - Security Analyst Interview Exercise
+#  Interview Exercise
 
-This repository contains my solutions to the SOC - Security Analyst Interview Exercise, which involved analyzing movie-related data from IMDB for the year 2018.
+This repository contains my solutions to a Interview Exercise, which involved analyzing movie-related data from IMDB for the year 2018.
 
 ## Questions and Answers
 
